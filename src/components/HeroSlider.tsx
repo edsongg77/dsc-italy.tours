@@ -47,7 +47,7 @@ export function HeroSlider({ slides, intervalMs = 5000 }: HeroSliderProps) {
       {/* Legibility overlays */}
       <div className="absolute inset-0 bg-gradient-to-b from-background/50 via-background/35 to-background" />
       <div className="absolute inset-0 bg-gradient-to-r from-background/70 via-transparent to-transparent" />
-      <div className="absolute inset-0 bg-[oklch(0.04_0_0)]/20" />
+      <div className="absolute inset-0 bg-[oklch(0.12_0_0)]/20" />
 
       {/* Slide indicators */}
       <div className="absolute bottom-8 left-1/2 z-10 flex -translate-x-1/2 items-center gap-3">

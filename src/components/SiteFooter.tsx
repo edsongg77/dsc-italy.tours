@@ -4,7 +4,7 @@ import logoRT from "@/assets/logo-rt.png";
 
 export function SiteFooter() {
   return (
-    <footer className="border-t border-border bg-[oklch(0.04_0_0)]">
+    <footer className="border-t border-border bg-[oklch(0.12_0_0)]">
       <div className="container-x py-20">
         <div className="grid gap-12 md:grid-cols-4">
           <div className="md:col-span-2">

@@ -110,7 +110,7 @@ function AboutPage() {
         </div>
       </section>
 
-      <section className="border-t border-border bg-[oklch(0.04_0_0)] py-24 md:py-32">
+      <section className="border-t border-border bg-[oklch(0.12_0_0)] py-24 md:py-32">
         <div className="container-x">
           <div className="mx-auto max-w-2xl text-center">
             <span className="eyebrow">Cosa offriamo</span>

@@ -85,7 +85,7 @@ function ToursPage() {
         </div>
       </section>
 
-      <section className="border-y border-border bg-[oklch(0.04_0_0)] py-24 text-center">
+      <section className="border-y border-border bg-[oklch(0.12_0_0)] py-24 text-center">
         <div className="container-x">
           <span className="eyebrow">Su misura</span>
           <h2 className="mt-4 font-display text-4xl md:text-5xl">

@@ -168,7 +168,7 @@ function HomePage() {
       </section>
 
       {/* SERVICES */}
-      <section className="border-t border-border bg-[oklch(0.04_0_0)] py-24 md:py-32">
+      <section className="border-t border-border bg-[oklch(0.12_0_0)] py-24 md:py-32">
         <div className="container-x">
           <div className="flex flex-col items-start justify-between gap-6 md:flex-row md:items-end">
             <div>
@@ -262,7 +262,7 @@ function HomePage() {
       </section>
 
       {/* CITIES */}
-      <section className="border-t border-border bg-[oklch(0.04_0_0)] py-24 md:py-32">
+      <section className="border-t border-border bg-[oklch(0.12_0_0)] py-24 md:py-32">
         <div className="container-x">
           <div className="mx-auto max-w-2xl text-center">
             <span className="eyebrow">Destinazioni</span>

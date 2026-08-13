@@ -71,7 +71,7 @@ function TransfersPage() {
         </div>
       </section>
 
-      <section className="border-y border-border bg-[oklch(0.04_0_0)] py-24">
+      <section className="border-y border-border bg-[oklch(0.12_0_0)] py-24">
         <div className="container-x">
           <div className="mx-auto max-w-2xl text-center">
             <span className="eyebrow">Rotas populares</span>

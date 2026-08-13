@@ -10,6 +10,12 @@ import venice from "@/assets/venice.jpg";
 import tuscany from "@/assets/tuscany.jpg";
 import vatican from "@/assets/vatican.jpg";
 import pompeii from "@/assets/pompeii.jpg";
+import naples from "@/assets/naples.jpg";
+import positano from "@/assets/positano.jpg";
+import amalfi from "@/assets/amalfi.jpg";
+import pisa from "@/assets/pisa.jpg";
+import tivoli from "@/assets/tivoli.jpg";
+import orvieto from "@/assets/orvieto.jpg";
 import { WHATSAPP } from "@/components/SiteHeader";
 import { HeroSlider } from "@/components/HeroSlider";
 

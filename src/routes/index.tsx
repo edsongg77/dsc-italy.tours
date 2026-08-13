@@ -10,6 +10,12 @@ import venice from "@/assets/venice.jpg";
 import tuscany from "@/assets/tuscany.jpg";
 import vatican from "@/assets/vatican.jpg";
 import pompeii from "@/assets/pompeii.jpg";
+import naples from "@/assets/naples.jpg";
+import positano from "@/assets/positano.jpg";
+import amalfi from "@/assets/amalfi.jpg";
+import pisa from "@/assets/pisa.jpg";
+import tivoli from "@/assets/tivoli.jpg";
+import orvieto from "@/assets/orvieto.jpg";
 import { WHATSAPP } from "@/components/SiteHeader";
 import { HeroSlider } from "@/components/HeroSlider";
 
@@ -45,14 +51,14 @@ const cities = [
   { name: "Roma", img: heroImg },
   { name: "Florença", img: florence },
   { name: "Veneza", img: venice },
-  { name: "Nápoles", img: pompeii },
-  { name: "Positano", img: toursImg },
-  { name: "Costa Amalfitana", img: toursImg },
+  { name: "Nápoles", img: naples },
+  { name: "Positano", img: positano },
+  { name: "Costa Amalfitana", img: amalfi },
   { name: "Pompeia", img: pompeii },
-  { name: "Pisa", img: florence },
+  { name: "Pisa", img: pisa },
   { name: "Siena", img: tuscany },
-  { name: "Tivoli", img: trevi },
-  { name: "Orvieto", img: tuscany },
+  { name: "Tivoli", img: tivoli },
+  { name: "Orvieto", img: orvieto },
   { name: "Vaticano", img: vatican },
 ];
 

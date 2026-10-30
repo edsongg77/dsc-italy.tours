@@ -2,6 +2,8 @@ import { Link } from "@tanstack/react-router";
 import { Instagram, Mail, Phone } from "lucide-react";
 import logoRT from "@/assets/logo-rt.png";
 
+const INSTAGRAM = "https://www.instagram.com/tours_roma_italia";
+
 export function SiteFooter() {
   return (
     <footer className="border-t border-border bg-[oklch(0.12_0_0)]">
@@ -20,7 +22,9 @@ export function SiteFooter() {
 
             <div className="mt-8 flex items-center gap-3">
               <a
-                href="#"
+                href={INSTAGRAM}
+                target="_blank"
+                rel="noreferrer"
                 aria-label="Instagram"
                 className="grid h-10 w-10 place-items-center border border-border text-muted-foreground transition-colors hover:border-gold hover:text-gold"
               >

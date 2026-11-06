@@ -133,8 +133,8 @@
   to { opacity: 1; }
 }
 @keyframes slow-zoom {
-  from { transform: scale(1.05); }
-  to { transform: scale(1.15); }
+  from { transform: scale(1); }
+  to { transform: scale(1.04); }
 }
 @keyframes hero-progress {
   from { width: 0%; }
